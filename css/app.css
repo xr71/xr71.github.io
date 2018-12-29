@@ -1,0 +1,13 @@
+html, body {
+    height: 100vh;
+}
+
+.row {
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+
+.poiheader, .poisearch {
+    color: white;
+    background-color: rgb(29, 27, 27);
+}
