@@ -1,2 +1,4 @@
 # xr71.github.io
-My personal bio page
+
+A demo MVVM application using Knockout.js, Bootstrap, Google Maps JavaScript API, and FourSquare Developer Venues API
+
